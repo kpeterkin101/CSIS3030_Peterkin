@@ -10,3 +10,22 @@
   <script type="text/javascript" src="js/jquery.min.js"></script>
   <script type="text/javascript" src="js/image_slide.js"></script></head>
 	<body>
+	<div id="main">
+    <div id="header">
+	  <div id="banner">
+	    <div id="welcome">
+	      <h1>Video Games</h1>
+
+	    </div><!--close welcome-->
+	    <div id="welcome_slogan">
+	      <h1>Power to the Players! Not really...</h1>
+	    </div><!--close welcome_slogan-->
+	  </div><!--close banner-->
+    </div><!--close header-->
+
+	<div id="menubar">
+      <ul id="menu">
+        <li class="current"><a href="index.php">Home</a></li>
+        <li><a href="category_list.php">Our Games</a></li>
+      </ul>
+    </div><!--close menubar-->	

@@ -2,94 +2,70 @@
 include("header.php");
 include("global.php");
 ?>
-<div id="main">
-    <div id="header">
-	  <div id="banner">
-	    <div id="welcome">
-	      <h1>Grey Theme</h1>
-	      <a href="category_list.php">Back</a>
-
-	    </div><!--close welcome-->
-	    <div id="welcome_slogan">
-	      <h1>Your Company Slogan Here</h1>
-	    </div><!--close welcome_slogan-->
-	  </div><!--close banner-->
-    </div><!--close header-->
-
-	<div id="menubar">
-      <ul id="menu">
-        <li class="current"><a href="index.html">Home</a></li>
-        <li><a href="ourwork.html">Our Work</a></li>
-        <li><a href="testimonials.html">Testimonials</a></li>
-        <li><a href="projects.html">Projects</a></li>
-        <li><a href="contact.html">Contact Us</a></li>
-      </ul>
-    </div><!--close menubar-->	
     
 	<div id="site_content">		
 
 	  <div class="sidebar_container">       
 		<div class="sidebar">
           <div class="sidebar_item">
-            <h2>New Website</h2>
-            <p>Welcome to our new website. Please have a look around, any feedback is much appreciated.</p>
+            <h2>Did you know?</h2>
+            <p>Prof. Jeff Tagen has an endless supply of Nerf guns.</p>
           </div><!--close sidebar_item--> 
         </div><!--close sidebar-->     		
 		<div class="sidebar">
           <div class="sidebar_item">
             <h2>Latest Update</h2>
-            <h3>September 2012</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque cursus tempor enim.</p>         
+            <h3>Febuary 2016</h3>
+            <p>It's cold.</p>         
 		  </div><!--close sidebar_item--> 
         </div><!--close sidebar-->
 		<div class="sidebar">
           <div class="sidebar_item">
-            <h3>September 2012</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque cursus tempor enim.</p>         
+            <h3>Febuary 2016</h3>
+            <p>You can put things in grilled cheese, aside from cheese.</p>         
 		  </div><!--close sidebar_item--> 
         </div><!--close sidebar-->  
 		<div class="sidebar">
           <div class="sidebar_item">
-            <h3>September 2012</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque cursus tempor enim.</p>         
+            <h3>Febuary 2016</h3>
+            <p>Video games proven to make babies buy nerf guns.</p>         
 		  </div><!--close sidebar_item--> 
         </div><!--close sidebar-->  		
         <div class="sidebar">
           <div class="sidebar_item">
             <h2>Contact</h2>
-            <p>Phone: +44 (0)1234 567891</p>
-            <p>Email: <a href="mailto:info@youremail.co.uk">info@youremail.co.uk</a></p>
+            <p>Don't.</p>
           </div><!--close sidebar_item--> 
         </div><!--close sidebar-->
        </div><!--close sidebar_container-->	
 	
       <ul class="slideshow">
-        <li class="show"><img width="680" height="250" src="images/home_1.jpg" alt="&quot;Enter your caption here&quot;" /></li>
-        <li><img width="680" height="250" src="images/home_2.jpg" alt="&quot;Enter your caption here&quot;" /></li>
+        <li class="show"><img width="680" height="250" src="images/nerds.png" alt="&quot;This template has a slideshow?&quot;" /></li>
+        <li><img width="680" height="250" src="images/cool.jpg" alt="&quot;Well what the hell Jim?&quot;" /></li>
       </ul>   	 
 	 
 	  <div id="content">
         <div class="content_item">
-		  <h1>Welcome To Your Website</h1> 
-	      <p>This standards compliant, simple, fixed width website template is released as an 'open source' design (under the Creative Commons Attribution 3.0 Licence), which means that you are free to download and use it for anything you want (including modifying and amending it). If you wish to remove the &lsquo;ARaynorDesign&rsquo; link in the footer of the template, please contact me first, but other than that...</p>
+		  <h1>Welcome To Video Games</h1> 
+	      <p>This ecommerece site is so broken you can literally only purchse four games. Don't give me that look, you try coding this thing by hand? Do you even have hands?</p>
 		  
 		  <div class="content_image">
-		    <img src="images/content_image1.jpg" alt="image1"/>
+		    <img src="images/megaman3d.gif" alt="image1"/>
 	      </div>
-		  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque cursus tempor enim. Aliquam facilisis neque non nunc posuere eget volutpat metus tincidunt.</p>
-		  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque cursus tempor enim.</p>
+		  <p></p>
+		  <p>This is where a chunk of useful informaiton goes. Sadly, we have none. So instead, heres a joke: "Why did the chicken cross the road? To ask why we couldn't come up with better content in time."</p>
 		  <br style="clear:both"/>
 		  
 		  <div class="content_container">
-		    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque cursus tempor enim. Aliquam facilisis neque non nunc posuere eget volutpat metus tincidunt.</p>
+		    <p>Why aren't you on Steam? It's so much better.</p>
 		  	<div class="button_small">
-		      <a href="#">Read more</a>
+		      <a href="http://store.steampowered.com/">Thanks</a>
 		    </div><!--close button_small-->
 		  </div><!--close content_container-->
           <div class="content_container">
-		    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque cursus tempor enim. Aliquam facilisis neque non nunc posuere eget volutpat metus tincidunt.</p>          
+		    <p>Let me tell you man, if you can put a bunch of chocolate bars stacked on top of eachother and make it high enough, we could rule the world.</p>          
 		  	<div class="button_small">
-		      <a href="#">Read more</a>
+		      <a href="https://en.wikipedia.org/wiki/Chocolate_bar">More</a>
 		    </div><!--close button_small-->		  
 		  </div><!--close content_container-->			  
 		</div><!--close content_item-->
@@ -99,21 +75,21 @@ include("global.php");
 	<div id="content_grey">
 	  <div class="content_grey_container_box">
 		<h4>Latest Blog Post</h4>
-	    <p> Phasellus laoreet feugiat risus. Ut tincidunt, ante vel fermentum iaculis.</p>
+	    <p> Papyrus sues Comic Sans over who's more outdated.</p>
 		<div class="readmore">
 		  <a href="#">Read more</a>
 		</div><!--close readmore-->
 	  </div><!--close content_grey_container_box-->
       <div class="content_grey_container_box">
        <h4>Latest News</h4>
-	    <p> Phasellus laoreet feugiat risus. Ut tincidunt, ante vel fermentum iaculis.</p>
+	    <p> Interview with a bearded ballerina. Says if we tell anyone were dead. More at 11.</p>
 	    <div class="readmore">
 		  <a href="#">Read more</a>
 		</div><!--close readmore-->
 	  </div><!--close content_grey_container_box-->
       <div class="content_grey_container_boxl">
 		<h4>Latest Projects</h4>
-	    <p> Phasellus laoreet feugiat risus. Ut tincidunt, ante vel fermentum iaculis.</p>
+	    <p> My mom likes my website.</p>
 	    <div class="readmore">
 		  <a href="#">Read more</a>
 		</div><!--close readmore-->	  
@@ -122,4 +98,6 @@ include("global.php");
     </div><!--close content_grey-->   
  
   </div><!--close main-->
+  <?php
   include("footer.php");
+  ?>

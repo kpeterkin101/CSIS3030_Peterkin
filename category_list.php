@@ -10,6 +10,8 @@ while ($row = mysqli_fetch_assoc($result)) {
 	echo "<a href='product_list.php?category_id=" . $row["id"] . "'>";
 	echo $row["category_name"];
 	echo "</a>";
+	echo "<br  />";
+	echo "<br  />";
 	
 	
 	
